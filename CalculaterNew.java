@@ -11,7 +11,7 @@ public class Calculater{
 		return a+b;
 	}
 	
-	public double addtiong(double a, double b){
-		return a+b;
+	public double addtiong(double a, double c){
+		return a+c;
 	}
 }
