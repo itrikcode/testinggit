@@ -1,5 +1,22 @@
-public class Calculater{
+public class CalculaterNew{
 	public static void main(String[] arg){
-		System.out.println("Hello ");
+		int add = addition(10,20);
+		
+		System.out.println("Hello "+add);
+		
+	}
+	
+	
+	public static int addition(int a, int b){
+		return a+b;
+	}
+	
+	public double addtiong(double a, double c){
+		return a+c;
+	}
+
+	public String sayHello(String name){
+		return "Hello "+name;
 	}
 }
+git
