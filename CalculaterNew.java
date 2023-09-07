@@ -18,5 +18,8 @@ public class CalculaterNew{
 	public String sayHello(String name){
 		return "Hello "+name;
 	}
+
+	public static int Multiple(int a,int b){
+		return a*b;
+	}
 }
-git
