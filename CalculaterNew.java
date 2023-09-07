@@ -12,8 +12,6 @@ public class Calculater{
 	}
 	
 	public double addtiong(double a, double c){
-
-		return z-y;
-
+		return a+c;
 	}
 }
