@@ -14,5 +14,9 @@ public class CalculaterNew{
 	public double addtiong(double a, double c){
 		return a+c;
 	}
+
+	public String sayHello(String name){
+		return "Hello "+name;
+	}
 }
-git 
+git
