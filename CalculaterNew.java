@@ -1,4 +1,4 @@
-public class Calculater{
+public class CalculaterNew{
 	public static void main(String[] arg){
 		int add = addition(10,20);
 		
