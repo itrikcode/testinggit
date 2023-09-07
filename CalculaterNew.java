@@ -26,4 +26,12 @@ public class CalculaterNew{
 	public static int squar(int a){
 		return a*a;
 	}
+
+	//add
+	public int substraction(int x,int y){
+		return x-y;
+	}
+	public  double substraction(double x,double y){
+		return  x-y;
+	}
 }
