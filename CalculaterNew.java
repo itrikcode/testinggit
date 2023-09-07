@@ -18,4 +18,12 @@ public class CalculaterNew{
 	public String sayHello(String name){
 		return "Hello "+name;
 	}
+
+	public static int Multiple(int a,int b){
+		return a*b;
+	}
+
+	public static int squar(int a){
+		return a*a;
+	}
 }
