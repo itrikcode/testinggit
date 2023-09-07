@@ -19,4 +19,3 @@ public class CalculaterNew{
 		return "Hello "+name;
 	}
 }
-git
