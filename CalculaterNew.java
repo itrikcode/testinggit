@@ -22,4 +22,8 @@ public class CalculaterNew{
 	public static int Multiple(int a,int b){
 		return a*b;
 	}
+
+	public static int squar(int a){
+		return a*a;
+	}
 }
