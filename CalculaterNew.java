@@ -34,4 +34,8 @@ public class CalculaterNew{
 	public  double substraction(double x,double y){
 		return  x-y;
 	}
+
+	public  double mul(double x,double y){
+		return  x*y;
+	}
 }
